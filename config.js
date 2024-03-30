@@ -1,5 +1,5 @@
 /**
- * config.js — congenial-garbanzo
+ * config.js — cart-canyon
  * @author bugship
  */
 
